@@ -3,9 +3,22 @@ Projects
 
 Open Source Toolkit
 -------------------------
-Facilitated this local-instituational project to benefit the community by
+Built and distributed the toolkit on a flash drive with Firefox interface for promoting and enabling use of OS software in the university context. Provided [oversight](http://iupdhc.org/toolkit/toolkit-slide-pres-intro_workshop-final.html#1), led and/or coordinated [workshops](); 
+
+Facilitated this local-institutional project to benefit the community with goals of
 - demonstrating the uses of open source
 - providing workshops for new users
 - fostering a supportive peer community
 - giving people agency in their digital work
+
 [More information at the IUP DHC Project Page](http://iupdhc.org/node/35)
+
+
+Pedagogy
+----------
+[Workshop on Poetry Audio and Pedagogy](http://iupdhc.org/poetryaudio/)
+Conducted for the Elliston Poetry Collection and University Libraries, University of Cinncinnati (Oct 2013). Explored teaching practices integrating the digital audio archive, including expressive transcription, podcasts, and remix. 
+
+
+
+
