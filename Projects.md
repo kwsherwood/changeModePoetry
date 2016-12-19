@@ -20,7 +20,9 @@ Pedagogy
 
 Conducted for the Elliston Poetry Collection and University Libraries, University of Cinncinnati (Oct 2013). Explored teaching practices integrating the digital audio archive, including expressive transcription, podcasts, and remix. 
 
-Born Digital Creative Writing and Literature Pedagogy. [slideshow](http://bit.ly/BornDigital2016)
-Keynote for SCC Creative Writing Festival 2016, exploring the making of digital writing projects within the creative writing curriculum, including select [student projects](http://sherwoodweb.org/Born-Digital-Pres/StudentWork/ )from my institution.  
+[Born Digital Creative Writing and Literature Pedagogy. talk](https://drive.google.com/file/d/0B1qwF4pRN7xpQl9CZ25jSXgxemM/view?usp=sharing)  [slideshow](http://bit.ly/BornDigital2016)
+
+Keynote for SCC Creative Writing Festival 2016, exploring the making of digital writing projects within the creative writing curriculum, including select [student projects](http://sherwoodweb.org/Born-Digital-Pres/StudentWork/) from my institution.  
+
 
 
