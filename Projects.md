@@ -17,8 +17,10 @@ Facilitated this local-institutional project to benefit the community with goals
 Pedagogy
 ----------
 [Workshop on Poetry Audio and Pedagogy](http://iupdhc.org/poetryaudio/)
+
 Conducted for the Elliston Poetry Collection and University Libraries, University of Cinncinnati (Oct 2013). Explored teaching practices integrating the digital audio archive, including expressive transcription, podcasts, and remix. 
 
-
+Born Digital Creative Writing and Literature Pedagogy. [slideshow](http://bit.ly/BornDigital2016)
+Keynote for SCC Creative Writing Festival 2016, exploring the making of digital writing projects within the creative writing curriculum, including select [student projects](http://sherwoodweb.org/Born-Digital-Pres/StudentWork/ )from my institution.  
 
 
