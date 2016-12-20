@@ -14,8 +14,9 @@ Facilitated this local-institutional project to benefit the community with goals
 [More information at the IUP DHC Project Page](http://iupdhc.org/node/35)
 
 
-Pedagogy [Workshop on Poetry Audio and Pedagogy](http://iupdhc.org/poetryaudio/)
+Pedagogy - Workshop on Poetry Audio and Pedagogy
 ----------
+[Website](http://iupdhc.org/poetryaudio/) | [Slideshow](http://sherwoodweb.org/Elliston-Pres/learning-slideshow.html#(1))
 
 Conducted for the Elliston Poetry Collection and University Libraries, University of Cinncinnati (Oct 2013). Explored teaching practices integrating the digital audio archive, including expressive transcription, podcasts, and remix. 
 
