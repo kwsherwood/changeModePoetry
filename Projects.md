@@ -3,7 +3,7 @@ Projects
 
 Open Source Toolkit
 -------------------------
-Built and distributed the toolkit on a flash drive with Firefox interface for promoting and enabling use of OS software in the university context. Provided [oversight](http://iupdhc.org/toolkit/toolkit-slide-pres-intro_workshop-final.html#1), led and/or coordinated [workshops](); 
+Built and distributed the toolkit on a flash drive with Firefox interface for promoting and enabling use of OS software in the university context. Provided [oversight](http://iupdhc.org/toolkit/toolkit-slide-pres-intro_workshop-final.html#1), led and/or coordinated [workshops](http://iupdhc.org/taxonomy/term/21); 
 
 Facilitated this local-institutional project to benefit the community with goals of
 - demonstrating the uses of open source
