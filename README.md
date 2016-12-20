@@ -3,14 +3,10 @@ CHMOD + POETRY
 
 > A Pedagogical Project to develop workshops and code snippets promoting the adoption of an exploratory programming dimension for HS and College English classes. 
 
-Kenneth Sherwood
-
-kwsherwood@gmail.com
-
-@kwsherwood
-
+Kenneth Sherwood  
+kwsherwood@gmail.com  
+@kwsherwood  
 http://www.sherwoodweb.org
-
 
 Background
 ==============
