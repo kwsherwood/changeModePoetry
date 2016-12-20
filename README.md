@@ -1,7 +1,7 @@
 # changeModePoetry
 CHMOD + POETRY
 
-> A Pedagogical Project to develop workshops and code snippets promoting the adoption of an exploratory programming dimension for HS and College English classes. 
+> A Pedagogical Project to develop workshops and code snippets promoting the adoption of an exploratory programming dimension for HS and College English classes using P5.js. 
 
 Kenneth Sherwood  
 kwsherwood@gmail.com  
